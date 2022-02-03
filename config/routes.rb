@@ -15,11 +15,11 @@ Rails.application.routes.draw do
   namespace :admin do
     root to: 'dashboard#show'
     resources :products, except: [:edit, :update, :show]
-  
+    resources :categories, except: [:edit, :update, :show, :destroy]
   end
   
   resources :about, only: [:index]
-
+  # rails generate controller namespace_name/controller_name
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
