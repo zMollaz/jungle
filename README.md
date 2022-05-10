@@ -3,7 +3,7 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 ### Checkout the GIF for a quick demo:
-!["Demo Gif of Jungle"](https://github.com/zMollaz/jungle-rails/blob/master/docs/Jungle.gif?raw=true)
+!["Demo Gif of Jungle"](https://github.com/zMollaz/jungle-rails/blob/master/docs/Jungle%20%E2%80%90%20Made%20with%20Clipchamp.gif?raw=true)
 
 ## Setup
 
